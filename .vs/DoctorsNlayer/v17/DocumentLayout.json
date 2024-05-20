@@ -1,0 +1,516 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctorsnlayer\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|solutionrelative:doctorsnlayer\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctorsnlayer\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|solutionrelative:doctorsnlayer\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctorsnlayer\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|solutionrelative:doctorsnlayer\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24869050-F370-4350-A0E3-E7AA2BF48598}|Doctors.Core\\Doctors.Core.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctors.core\\dtos\\accountdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24869050-F370-4350-A0E3-E7AA2BF48598}|Doctors.Core\\Doctors.Core.csproj|solutionrelative:doctors.core\\dtos\\accountdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24869050-F370-4350-A0E3-E7AA2BF48598}|Doctors.Core\\Doctors.Core.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctors.core\\dtos\\accountdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24869050-F370-4350-A0E3-E7AA2BF48598}|Doctors.Core\\Doctors.Core.csproj|solutionrelative:doctors.core\\dtos\\accountdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24869050-F370-4350-A0E3-E7AA2BF48598}|Doctors.Core\\Doctors.Core.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctors.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24869050-F370-4350-A0E3-E7AA2BF48598}|Doctors.Core\\Doctors.Core.csproj|solutionrelative:doctors.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctorsnlayer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|solutionrelative:doctorsnlayer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E191F4-5BE5-4DDD-865D-76E75A73F497}|Doctors.Data\\Doctors.Data.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctors.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E191F4-5BE5-4DDD-865D-76E75A73F497}|Doctors.Data\\Doctors.Data.csproj|solutionrelative:doctors.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctorsnlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|solutionrelative:doctorsnlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctorsnlayer\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|solutionrelative:doctorsnlayer\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctorsnlayer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|solutionrelative:doctorsnlayer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C2AAF-0AA4-496A-91D2-1AB33C39A9A0}|Doctors.Bussiness\\Doctors.Bussiness.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctors.bussiness\\service\\concretes\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C2AAF-0AA4-496A-91D2-1AB33C39A9A0}|Doctors.Bussiness\\Doctors.Bussiness.csproj|solutionrelative:doctors.bussiness\\service\\concretes\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C2AAF-0AA4-496A-91D2-1AB33C39A9A0}|Doctors.Bussiness\\Doctors.Bussiness.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctors.bussiness\\service\\abstracts\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C2AAF-0AA4-496A-91D2-1AB33C39A9A0}|Doctors.Bussiness\\Doctors.Bussiness.csproj|solutionrelative:doctors.bussiness\\service\\abstracts\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctorsnlayer\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|solutionrelative:doctorsnlayer\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctorsnlayer\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|solutionrelative:doctorsnlayer\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctorsnlayer\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|solutionrelative:doctorsnlayer\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E191F4-5BE5-4DDD-865D-76E75A73F497}|Doctors.Data\\Doctors.Data.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctors.data\\dal\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E191F4-5BE5-4DDD-865D-76E75A73F497}|Doctors.Data\\Doctors.Data.csproj|solutionrelative:doctors.data\\dal\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E191F4-5BE5-4DDD-865D-76E75A73F497}|Doctors.Data\\Doctors.Data.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctors.data\\dal\\repositoryconcretes\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E191F4-5BE5-4DDD-865D-76E75A73F497}|Doctors.Data\\Doctors.Data.csproj|solutionrelative:doctors.data\\dal\\repositoryconcretes\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24869050-F370-4350-A0E3-E7AA2BF48598}|Doctors.Core\\Doctors.Core.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctors.core\\repositoryabstracts\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24869050-F370-4350-A0E3-E7AA2BF48598}|Doctors.Core\\Doctors.Core.csproj|solutionrelative:doctors.core\\repositoryabstracts\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctorsnlayer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|solutionrelative:doctorsnlayer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctorsnlayer\\helpers\\account\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|solutionrelative:doctorsnlayer\\helpers\\account\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctorsnlayer\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|solutionrelative:doctorsnlayer\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C2AAF-0AA4-496A-91D2-1AB33C39A9A0}|Doctors.Bussiness\\Doctors.Bussiness.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctors.bussiness\\exceptions\\filecontentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C2AAF-0AA4-496A-91D2-1AB33C39A9A0}|Doctors.Bussiness\\Doctors.Bussiness.csproj|solutionrelative:doctors.bussiness\\exceptions\\filecontentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C2AAF-0AA4-496A-91D2-1AB33C39A9A0}|Doctors.Bussiness\\Doctors.Bussiness.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctors.bussiness\\exceptions\\filenamenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C2AAF-0AA4-496A-91D2-1AB33C39A9A0}|Doctors.Bussiness\\Doctors.Bussiness.csproj|solutionrelative:doctors.bussiness\\exceptions\\filenamenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctorsnlayer\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|solutionrelative:doctorsnlayer\\areas\\admin\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C2AAF-0AA4-496A-91D2-1AB33C39A9A0}|Doctors.Bussiness\\Doctors.Bussiness.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctors.bussiness\\exceptions\\doctornotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C2AAF-0AA4-496A-91D2-1AB33C39A9A0}|Doctors.Bussiness\\Doctors.Bussiness.csproj|solutionrelative:doctors.bussiness\\exceptions\\doctornotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0C2AAF-0AA4-496A-91D2-1AB33C39A9A0}|Doctors.Bussiness\\Doctors.Bussiness.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctors.bussiness\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0C2AAF-0AA4-496A-91D2-1AB33C39A9A0}|Doctors.Bussiness\\Doctors.Bussiness.csproj|solutionrelative:doctors.bussiness\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctorsnlayer\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|solutionrelative:doctorsnlayer\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctorsnlayer\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F391BD95-4815-45D5-956B-BDA12B569067}|DoctorsNlayer\\DoctorsNlayer.csproj|solutionrelative:doctorsnlayer\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27E191F4-5BE5-4DDD-865D-76E75A73F497}|Doctors.Data\\Doctors.Data.csproj|c:\\users\\user\\desktop\\proniaprakt\\doctors\\doctorsnlayer\\doctors.data\\migrations\\20240518225553_updateduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E191F4-5BE5-4DDD-865D-76E75A73F497}|Doctors.Data\\Doctors.Data.csproj|solutionrelative:doctors.data\\migrations\\20240518225553_updateduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Helpers\\Account\\UserRole.cs",
+              "RelativeDocumentMoniker": "DoctorsNlayer\\Helpers\\Account\\UserRole.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Helpers\\Account\\UserRole.cs",
+              "RelativeToolTip": "DoctorsNlayer\\Helpers\\Account\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T00:46:12.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DoctorsNlayer\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "DoctorsNlayer\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T23:15:32.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Core\\DTOs\\AccountDto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Doctors.Core\\DTOs\\AccountDto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Core\\DTOs\\AccountDto\\LoginDto.cs",
+              "RelativeToolTip": "Doctors.Core\\DTOs\\AccountDto\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T23:01:29.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DoctorsNlayer\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DoctorsNlayer\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwEoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:32:02.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240518225553_UpdatedUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Data\\Migrations\\20240518225553_UpdatedUser.cs",
+              "RelativeDocumentMoniker": "Doctors.Data\\Migrations\\20240518225553_UpdatedUser.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Data\\Migrations\\20240518225553_UpdatedUser.cs",
+              "RelativeToolTip": "Doctors.Data\\Migrations\\20240518225553_UpdatedUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:55:53.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Core\\DTOs\\AccountDto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Doctors.Core\\DTOs\\AccountDto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Core\\DTOs\\AccountDto\\RegisterDto.cs",
+              "RelativeToolTip": "Doctors.Core\\DTOs\\AccountDto\\RegisterDto.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T21:02:35.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "DoctorsNlayer\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "DoctorsNlayer\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAEAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T20:33:07.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Doctors.Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Core\\Models\\User.cs",
+              "RelativeToolTip": "Doctors.Core\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:37:24.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DoctorsNlayer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DoctorsNlayer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:33:41.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeDocumentMoniker": "DoctorsNlayer\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "RelativeToolTip": "DoctorsNlayer\\Areas\\Admin\\Views\\Doctor\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T14:49:56.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "DoctorsNlayer\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "DoctorsNlayer\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T14:49:32.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoctorsNlayer\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "DoctorsNlayer\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T13:17:09.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "DoctorsNlayer\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "DoctorsNlayer\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwBEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:16:25.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Bussiness\\Service\\Concretes\\DoctorService.cs",
+              "RelativeDocumentMoniker": "Doctors.Bussiness\\Service\\Concretes\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Bussiness\\Service\\Concretes\\DoctorService.cs",
+              "RelativeToolTip": "Doctors.Bussiness\\Service\\Concretes\\DoctorService.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:52:02.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Bussiness\\Service\\Abstracts\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "Doctors.Bussiness\\Service\\Abstracts\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Bussiness\\Service\\Abstracts\\IDoctorService.cs",
+              "RelativeToolTip": "Doctors.Bussiness\\Service\\Abstracts\\IDoctorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:51:46.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FileNameNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Bussiness\\Exceptions\\FileNameNotFoundException.cs",
+              "RelativeDocumentMoniker": "Doctors.Bussiness\\Exceptions\\FileNameNotFoundException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Bussiness\\Exceptions\\FileNameNotFoundException.cs",
+              "RelativeToolTip": "Doctors.Bussiness\\Exceptions\\FileNameNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:49:59.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Bussiness\\Exceptions\\FileSizeException.cs",
+              "RelativeDocumentMoniker": "Doctors.Bussiness\\Exceptions\\FileSizeException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Bussiness\\Exceptions\\FileSizeException.cs",
+              "RelativeToolTip": "Doctors.Bussiness\\Exceptions\\FileSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:49:02.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FileContentException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Bussiness\\Exceptions\\FileContentException.cs",
+              "RelativeDocumentMoniker": "Doctors.Bussiness\\Exceptions\\FileContentException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Bussiness\\Exceptions\\FileContentException.cs",
+              "RelativeToolTip": "Doctors.Bussiness\\Exceptions\\FileContentException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:47:39.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DoctorNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Bussiness\\Exceptions\\DoctorNotFoundException.cs",
+              "RelativeDocumentMoniker": "Doctors.Bussiness\\Exceptions\\DoctorNotFoundException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Bussiness\\Exceptions\\DoctorNotFoundException.cs",
+              "RelativeToolTip": "Doctors.Bussiness\\Exceptions\\DoctorNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:46:59.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Data\\DAL\\RepositoryConcretes\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "Doctors.Data\\DAL\\RepositoryConcretes\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Data\\DAL\\RepositoryConcretes\\DoctorRepository.cs",
+              "RelativeToolTip": "Doctors.Data\\DAL\\RepositoryConcretes\\DoctorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:35:14.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Data\\DAL\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Doctors.Data\\DAL\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Data\\DAL\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "Doctors.Data\\DAL\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:34:51.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Core\\RepositoryAbstracts\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "Doctors.Core\\RepositoryAbstracts\\IDoctorRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Core\\RepositoryAbstracts\\IDoctorRepository.cs",
+              "RelativeToolTip": "Doctors.Core\\RepositoryAbstracts\\IDoctorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:30:07.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Doctors.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\Doctors.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Doctors.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:52:59.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DoctorsNlayer\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DoctorsNlayer\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:58:17.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoctorsNlayer\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "DoctorsNlayer\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAFQBAAAAAAAAAIBZwFoBAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T21:40:29.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "DoctorsNlayer\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "DoctorsNlayer\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:40:16.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoctorsNlayer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DoctorsNlayer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAL0BAAAAAAAAAAAQwOUBAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T21:21:52.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "DoctorsNlayer\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "DoctorsNlayer\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-17T21:10:41.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DoctorsNlayer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DoctorsNlayer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAAM8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T21:01:58.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Program.cs",
+              "RelativeDocumentMoniker": "DoctorsNlayer\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\proniaprakt\\Doctors\\DoctorsNlayer\\DoctorsNlayer\\Program.cs",
+              "RelativeToolTip": "DoctorsNlayer\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADgvzMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:00:19.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

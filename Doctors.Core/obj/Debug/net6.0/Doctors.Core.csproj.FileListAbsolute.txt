@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\proniaprakt\Doctors\DoctorsNlayer\Doctors.Core\bin\Debug\net6.0\Doctors.Core.deps.json
+C:\Users\User\Desktop\proniaprakt\Doctors\DoctorsNlayer\Doctors.Core\bin\Debug\net6.0\Doctors.Core.dll
+C:\Users\User\Desktop\proniaprakt\Doctors\DoctorsNlayer\Doctors.Core\bin\Debug\net6.0\Doctors.Core.pdb
+C:\Users\User\Desktop\proniaprakt\Doctors\DoctorsNlayer\Doctors.Core\obj\Debug\net6.0\Doctors.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\proniaprakt\Doctors\DoctorsNlayer\Doctors.Core\obj\Debug\net6.0\Doctors.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\proniaprakt\Doctors\DoctorsNlayer\Doctors.Core\obj\Debug\net6.0\Doctors.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\proniaprakt\Doctors\DoctorsNlayer\Doctors.Core\obj\Debug\net6.0\Doctors.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\proniaprakt\Doctors\DoctorsNlayer\Doctors.Core\obj\Debug\net6.0\Doctors.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\proniaprakt\Doctors\DoctorsNlayer\Doctors.Core\obj\Debug\net6.0\Doctors.Core.sourcelink.json
+C:\Users\User\Desktop\proniaprakt\Doctors\DoctorsNlayer\Doctors.Core\obj\Debug\net6.0\Doctors.Core.dll
+C:\Users\User\Desktop\proniaprakt\Doctors\DoctorsNlayer\Doctors.Core\obj\Debug\net6.0\refint\Doctors.Core.dll
+C:\Users\User\Desktop\proniaprakt\Doctors\DoctorsNlayer\Doctors.Core\obj\Debug\net6.0\Doctors.Core.pdb
+C:\Users\User\Desktop\proniaprakt\Doctors\DoctorsNlayer\Doctors.Core\obj\Debug\net6.0\ref\Doctors.Core.dll
+C:\Users\User\Desktop\proniaprakt\Doctors\DoctorsNlayer\Doctors.Core\bin\Debug\net6.0\Doctors.Core.runtimeconfig.json
+C:\Users\User\Desktop\proniaprakt\Doctors\DoctorsNlayer\Doctors.Core\obj\Debug\net6.0\Doctors.Core.genruntimeconfig.cache
